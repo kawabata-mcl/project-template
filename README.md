@@ -1,2 +1,3 @@
-# matsunoshita-online-order
-まつのしたの注文をlineから実施するシステム
+# project-template
+
+template for system development project
